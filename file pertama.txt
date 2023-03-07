@@ -1,5 +1,5 @@
 Rincian Materi Kampus Merdeka Batch 4
-- HTML dan CSS
+- Web Desaign (HTML dan CSS)
 - Javascript
 - Github
 - PHP
